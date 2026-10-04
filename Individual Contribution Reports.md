@@ -50,3 +50,28 @@ Summary
 Conclusion
 
 My role helped ensure the system was reliable, well-documented, and collaboratively developed without version control issues.
+
+## 4   RAPHAEL HATZKIN 224091581 Contribution Report 
+My responsibility was Asset Management in the Municipal Financial Management System.
+
+I was responsible for developing the Asset Management module, which helps the municipality manage, monitor, and maintain its assets. The module is designed to record and organise important information about municipal assets, such as asset names, identification numbers, purchase costs, and conditions.
+
+I contributed to the development of functions that allow users to add new assets, view existing asset records, update asset information, and track the condition of municipal property and equipment. This helps the municipality maintain accurate asset records and manage its resources effectively.
+
+Additionally, I focused on ensuring that the asset management functionality was easy to use and properly integrated into the main system. This contributes to improved record-keeping, accountability, and efficient management of municipal assets.
+
+Summary
+
+Developed the Asset Management module for the Municipal Financial Management System.
+
+Implemented functionality for adding, viewing, and updating asset records.
+
+Organised asset information, including asset names, identification numbers, costs, and conditions.
+
+Contributed to improving municipal asset tracking and record-keeping.
+
+Helped ensure the Asset Management module integrates with the overall system.
+
+Conclusion
+
+My contribution to the Asset Management module helps the municipality maintain accurate asset records, monitor the condition of its assets, and manage its resources more efficiently. This supports better financial accountability and effective management of municipal property and equipment.
