@@ -1,4 +1,4 @@
-##1 Jordan Nakale Contribution Report
+## 1 Jordan Nakale Contribution Report
 
 -My main responsibility in this project was the **Budget Management module**. I developed functions that allow users to enter departmental budgets, record expenditures, calculate remaining budgets, and determine whether departments are within or exceeding their allocated budget .
 I applied key programming concepts such as variables, arithmetic calculations, decision-making (if/else), functions, arrays, and input validation to ensure accurate and reliable results.
@@ -14,7 +14,7 @@ Summary
 Conclusion
 -This contribution helped ensure that the system can effectively manage and evaluate municipal budgets. The project improved my understanding of programming concepts and teamwork in a real-world application.
 
-##2 Maandag Hanseb Contribution Report
+## 2 Maandag Hanseb Contribution Report
 
 -I was responsible for the Reports module, which generates summaries for employees, budgets, suppliers, and assets. I developed functions to calculate and display key information such as totals, averages, and budget balances using arrays, loops, and functions.
 
@@ -28,7 +28,7 @@ Conclusion
 
 My contribution ensured the system produces accurate and useful reports.
 
-##3 Genofefa Venomusheko Contribution Report
+## 3 Genofefa Venomusheko Contribution Report
 
 My responsibility was **Input Validation, Testing, Documentation, and GitHub Coordination**.
 
