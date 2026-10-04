@@ -75,3 +75,17 @@ Helped ensure the Asset Management module integrates with the overall system.
 Conclusion
 
 My contribution to the Asset Management module helps the municipality maintain accurate asset records, monitor the condition of its assets, and manage its resources more efficiently. This supports better financial accountability and effective management of municipal property and equipment.
+
+## 5 Linda Mutileni- 223138266 Contribution Report 
+I was responsible for developing the Supplier Management module of the Municipal Financial Management System. My part allows the user to manage supplier information, including the supplier ID, name, email, telephone number and location.
+
+I developed the following functions:
+
+addSupplier() – adds new suppliers and checks for duplicate IDs.
+displaySuppliers() – displays all registered suppliers.
+searchSupplier() – searches for suppliers by name or location.
+supplierMenu() – provides the menu for supplier management.
+I used C programming concepts such as arrays, functions, loops, conditions, strings and strcmp(). I also tested the module by adding, displaying and searching for suppliers and checking invalid or duplicate entries.
+Conclusion
+
+My contribution was to make sure the system could store, display and search supplier information effectively as required by the project.
