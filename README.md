@@ -77,12 +77,12 @@ MFMS/
 | Member | Responsibility |
 
 | Student 1 | Employee Management |
-| Student 2 | Budget Management |
+| Jordan Nakale | Budget Management |
 | Student 3 | Supplier Management |
 | Student 4 | Asset Management |
-| Student 5 | Reports |
-| Student 6 | Functions, integration and validation |
-| Student 7 | Testing, documentation and Git coordination |
+| Maandag Hanseb | Reports |
+| Asteria | Functions, integration and validation |
+| Genofefa Venomusheko | Testing, documentation and Git coordination |
 
 
 ## 7. GitHub Workflow
