@@ -15,7 +15,7 @@ Asteria N Ausiku - 224080563
 Izane Rocheta Barman - 224027514
 Linda Mutileni - 223138266
 Raphael Hatzkin - 224091581
-Hanseb M - 225041707
+Hanseb Maandag - 225041707
 
 ## 1. Project Description
 
@@ -125,6 +125,8 @@ Version Control Practices
 * Members frequently used `git pull` to stay updated with the latest changes
 * Work was integrated continuously to avoid conflicts and ensure compatibility between modules
 * The project was not developed on a single machine; all members contributed individually
+
+https://github.com/225030357-venomusheko/MFMS_Project_A_
 
 ## 8. Testing Checklist
 
