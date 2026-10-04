@@ -100,16 +100,14 @@ Overall, my contribution helped make the employee section of the system function
 ## 7 Asteria N Ausiku -224080563
 Here is a corrected and polished version of your participation section:
 
-## Participation
-
 My responsibilities included **functions, integration, and validation**. I helped combine the **Employee, Budget, Supplier, Asset, and Reports** modules into a cohesive and fully functional system. I also implemented input validation to ensure that users entered correct and complete information, thereby reducing errors and improving data quality.
 
-## Synopsis
+Synopsis
 
 - Developed and organized the system’s program functionality.
 - Integrated all system modules into one unified application.
 - Implemented input validation to prevent invalid or incomplete data entry.
 
-## Conclusion
+Conclusion
 
 The system was successfully integrated and functioned as intended. The modules worked together effectively, and input validation helped ensure reliable and accurate data processing.
