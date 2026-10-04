@@ -25,3 +25,28 @@ Summary
 
 Conclusion
 My contribution ensured the system produces accurate and useful reports.
+
+# Genofefa Venomusheko Contribution Report
+
+## Contribution
+
+My responsibility was **Input Validation, Testing, Documentation, and GitHub Coordination**.
+
+I developed the **Input module** (`input.c` and `input.h`), writing functions to handle and validate user input to ensure the system processes clean data and avoids errors. 
+
+I tested the system to ensure all features worked correctly, including menu navigation, calculations, and input validation. I also identified errors and assisted in improving system reliability.
+
+I contributed to documentation by writing and organising the **README.md** and **TECHNICAL_REPORT.md**, ensuring clear instructions and system descriptions.
+
+Additionally, I created the public GitHub repository, added all group members as contributors, and coordinated GitHub usage by ensuring everyone committed regularly and followed proper version control practices.
+
+## Summary
+
+* Developed the Input Validation module (`input.c` and `input.h`)
+* Tested system functionality and validation
+* Authored `README.md` and `TECHNICAL_REPORT.md` documentation
+* Created the public repository and coordinated GitHub contributions
+
+## Conclusion
+
+My role helped ensure the system was reliable, well-documented, and collaboratively developed without version control issues.
