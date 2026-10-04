@@ -7,6 +7,16 @@
 **Recommended IDE:** Visual Studio Code  
 **Version Control:** Git & GitHub
 
+## Group Members
+
+Genofefa Venomusheko - 225030357
+Jordan Nakale - 225123576 
+Asteria N Ausiku - 224080563
+Izane Rocheta Barman - 224027514
+Linda Mutileni - 223138266
+Raphael Hatzkin - 224091581
+Hanseb M - 225041707
+
 ## 1. Project Description
 
 The Municipal Financial Management System (MFMS) is a menu-driven C application designed as the foundation version of a municipal financial management system. It manages employees, departmental budgets, suppliers and municipal assets and produces basic reports.
@@ -76,12 +86,12 @@ MFMS/
 
 | Member | Responsibility |
 
-| Student 1 | Employee Management |
+| Izane Rocheta Barman | Employee Management |
 | Jordan Nakale | Budget Management |
-| Student 3 | Supplier Management |
-| Student 4 | Asset Management |
+| Linda Mutileni | Supplier Management |
+| Raphael Hatzkin | Asset Management |
 | Maandag Hanseb | Reports |
-| Asteria | Functions, integration and validation |
+| Asteria N Ausiku | Functions, integration and validation |
 | Genofefa Venomusheko | Testing, documentation and Git coordination |
 
 
