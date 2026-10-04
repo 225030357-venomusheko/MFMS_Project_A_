@@ -72,6 +72,15 @@ MFMS/
 
 ## 4. Compilation
 
+Ensure GCC compiler is installed.
+Open a terminal in the project directory.
+Compile the program using:
+gcc main.c employees.c budget.c suppliers.c assets.c reports.c -o mfms
+Run the program:
+On Linux/Mac:
+./mfms
+On Windows:
+mfms.exe
 
 ## 5. How to Run
 
@@ -103,6 +112,19 @@ MFMS/
 
 ## 7. GitHub Workflow
 
+The project was developed collaboratively using GitHub to ensure proper version control, transparency, and equal contribution from all group members.
+
+Repository Setup
+-A central GitHub repository was created for the project, and all group members were added as collaborators. The repository follows a structured layout with separate source files for each module.
+
+Development Process
+-Each group member was responsible for a specific module. Members cloned the repository to their local machines and worked on their assigned components independently. Changes were made incrementally, and members committed their work regularly using meaningful commit messages. This ensured that progress was tracked and contributions were clearly visible.
+
+Version Control Practices
+* Each member used `git add`, `git commit`, and `git push` to upload their work
+* Members frequently used `git pull` to stay updated with the latest changes
+* Work was integrated continuously to avoid conflicts and ensure compatibility between modules
+* The project was not developed on a single machine; all members contributed individually
 
 ## 8. Testing Checklist
 
