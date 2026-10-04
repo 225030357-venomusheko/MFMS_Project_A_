@@ -89,3 +89,10 @@ I used C programming concepts such as arrays, functions, loops, conditions, stri
 Conclusion
 
 My contribution was to make sure the system could store, display and search supplier information effectively as required by the project.
+## 6 Izane Rocheta Barman 
+Contribution Report
+I contributed to the development of the Employee Management Module. My main work was creating functions to add, display, and search for employee records.
+
+I also worked on checking for duplicate employee IDs and validating the information entered by the user. In addition, I implemented the salary calculation by adding the basic salary and allowances.
+
+Overall, my contribution helped make the employee section of the system functional and easier to use.
