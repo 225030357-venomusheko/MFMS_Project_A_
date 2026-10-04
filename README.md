@@ -10,11 +10,17 @@
 ## Group Members
 
 Genofefa Venomusheko - 225030357
+
 Jordan Nakale - 225123576 
+
 Asteria N Ausiku - 224080563
+
 Izane Rocheta Barman - 224027514
+
 Linda Mutileni - 223138266
+
 Raphael Hatzkin - 224091581
+
 Hanseb Maandag - 225041707
 
 ## 1. Project Description
