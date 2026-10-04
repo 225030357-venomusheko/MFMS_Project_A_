@@ -91,7 +91,7 @@ mfms.exe
 5. Use Reports to view calculated summaries.
 6. Select Exit from the main menu to close the program.
 
-## 6. Suggested Group Responsibilities
+## 6. Group Responsibilities
 
 | Member | Responsibility |
 
